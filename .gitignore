@@ -1,12 +1,5 @@
 
 .idea/
-
-*.scssc
-
 node_modules/
-
-*.log
-
-snapshots/pc-snapshots.psd
-
-snapshots/mobile-snapshots.psd
+dist/
+coverage/
